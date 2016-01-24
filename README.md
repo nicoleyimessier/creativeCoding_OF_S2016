@@ -5,7 +5,7 @@ Course repository for Creative Coding: openFrameworks at MFA Design &amp; Techno
 * Course Time: Wednesday (7:00pm-9:40pm) at 6 East 16th Street 1202
 
 ##Course Description
-This studio will focus on generative design and simulation. We will examine the natural world and build systems designed to reproduce behavior from physics to L-Systems to flocking. Topics covered include: object oriented programming, procedural art, physics simulation, algorithmic animation, designing for interactivity, and more. Students will work on three projects over the course of the semester. 
+This studio will focus on generative design and simulation using openFrameworks. Topics covered include: object oriented programming, procedural art, physics simulation, algorithmic animation, designing for interactivity, and more. Students will work on three projects over the course of the semester. 
 
 
 ##Course Outline
