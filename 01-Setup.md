@@ -42,7 +42,7 @@ You will see that the folder is together with the ```apps/```, ```libs/``` and `
 * ```libs/```
 * ```examples/```
 * ```scripts/```
-* **```CreativeCoding_oF_F15/```**
+* **```creativeCoding_OF_S2016/```**
 
 These will preserve the examples on 3 levels over the root directory (if you don't understand what I mean, read [Chapter 03](https://github.com/openframeworks/ofBook/blob/master/03_setup_and_project_structure/chapter.md)! seriously! READ IT! ).
 
@@ -62,15 +62,5 @@ And clone your directory
 
 	git clone YOUR PERSONAL REPO URL
 	
-Now you should see this repo mixed in with the other openFrameworks subdirectories:
-
-* ```addons/```
-* ```apps/```
-* ```libs/```
-* ```examples/```
-* ```scripts/```
-* ```CreativeCoding_oF_F15/```
-* **```CreativeCoding_oF_F15_students/```**
-	
-This is where you will be submitting your HW each week. 
+Now you should see this repo mixed in with the other openFrameworks subdirectories. This is where you will be submitting your HW each week. 
  
