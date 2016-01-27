@@ -33,7 +33,7 @@ Go to your openFrameworks root directory:
 	
 And clone this directory
 
-	git clone https://github.com/conorrussomanno/CreativeCoding_oF_F15
+	git clone https://github.com/nicoleyimessier/creativeCoding_OF_S2016
 
 You will see that the folder is together with the ```apps/```, ```libs/``` and ```addons/``` folders
 
@@ -50,15 +50,17 @@ These will preserve the examples on 3 levels over the root directory (if you don
 
 Create a github account if you don't have one already and create a repo for the class that you'll use to submit your homework.  
 
-## 5. Clone the student repository
+## 5. Create your own class respoitory to save and submit your homework. Follow this [guide](https://help.github.com/articles/create-a-repo/) to see how to create a repo.
+
+## 6. Clone your PERSONAL student repository
 
 Go to your openFrameworks root directory:
 
 	cd ~/Desktop/openFrameworks
 	
-And clone this directory
+And clone your directory
 
-	git clone https://github.com/conorrussomanno/CreativeCoding_oF_F15_students
+	git clone YOUR PERSONAL REPO URL
 	
 Now you should see this repo mixed in with the other openFrameworks subdirectories:
 
@@ -70,5 +72,5 @@ Now you should see this repo mixed in with the other openFrameworks subdirectori
 * ```CreativeCoding_oF_F15/```
 * **```CreativeCoding_oF_F15_students/```**
 	
-This is where you will be submitting your HW each week. Here, you will also be able to check out the work of your fellow students! For more information on submitting your HW, read the README in the [CreativeCoding_oF_F15_students](https://github.com/conorrussomanno/CreativeCoding_oF_F15_students) repo.
+This is where you will be submitting your HW each week. 
  

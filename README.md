@@ -91,7 +91,7 @@ This studio will focus on generative design and simulation using openFrameworks.
 * Project 3 - Complex Systems
 
 ## Materials and Supplies
-This course will be based on [openFrameworks](http://openframeworks.cc) C++ toolkit, & [processing](https://processing.org/), and will use [GitHub.com](https://github.com/)  as the online platform to share code, research notes and papers and deliver homework. 
+This course will be based on [openFrameworks](http://openframeworks.cc) C++ toolkit and will use [GitHub.com](https://github.com/)  as the online platform to share code, research notes and papers and deliver homework. 
 
 You may find additional help and inspiration in the examples contained in the following repositories:
 
