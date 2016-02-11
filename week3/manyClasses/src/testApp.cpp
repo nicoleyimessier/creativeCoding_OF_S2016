@@ -51,7 +51,17 @@ void testApp::mouseDragged(int x, int y, int button){
 
 //--------------------------------------------------------------
 void testApp::mousePressed(int x, int y, int button){
+    //myAliens.clear();
     
+    for(int i=0; i<myAliens.size(); i++){
+        float distance = ofDist(x, y, myAliens[i].xPos, myAliens[i].yPos);
+        
+        if(distance<myAliens[i].diam){
+            
+            myAliens.erase(myAliens.begin() + i);
+        }
+        
+    }
 }
 
 //--------------------------------------------------------------
