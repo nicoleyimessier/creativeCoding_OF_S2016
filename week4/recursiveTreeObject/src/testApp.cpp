@@ -2,6 +2,7 @@
 
 //--------------------------------------------------------------
 void testApp::setup(){
+    //ofSetBackgroundAuto(false);
     ofSetFrameRate(1);
     ofEnableSmoothing();
     me.dotSize = 9.0f;
@@ -24,6 +25,10 @@ void testApp::draw(){
 //--------------------------------------------------------------
 void testApp::keyPressed(int key){
 
+    if(key == 'p'){
+        me.seed1(me.dotSize, ofDegToRad(300), 0, 0);
+        cout << "this is happening" << endl;
+    }
 }
 
 //--------------------------------------------------------------
