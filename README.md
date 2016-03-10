@@ -30,37 +30,39 @@ This studio will focus on generative design and simulation using openFrameworks.
 * Work on Project 1
 
 ####Week 5, 02/24
-* Project 1 Presentations + Demos
+* Recursion extended
 
 ####Week 6, 03/2
-* Kinematics (pos, vel, acl)
-* Vectors
+* Recursion extended
 
 ####Week 7, 03/09
-* Math for code (trig, polar/Cartesian)
-* Oscillation
-* Gaussian Function
-* Noise function
+* Workshop
 
 ####Week 8, 03/16
-* Forces, gravity, springs
+* Presentations
 
 ####Week 9, 03/23
 * Spring Break, No class
 * Work on project 2
 
 ####Week 10, 03/30
+* Math for code (trig, polar/Cartesian)
+* Oscillation
+* Gaussian Function
+* Noise function
+* Forces, gravity, springs
+
+####Week 11, 04/06
+* Kinematics (pos, vel, acl)
+* Vectors
 * Particle systems
 * Object interactivity 
 
-####Week 11, 04/06
-* Project 2 Presentations & Demos – algo animations
-
 ####Week 12, 4/13
-* Complex systems (flocking OR cellular automata) 
+* Image processing & computer vision
 
 ####Week 13, 4/20
-* Complex systems (flocking OR cellular automata) 
+* Image processing & computer vision
 
 ####Week 14, 4/27
 * Semester review
@@ -79,16 +81,14 @@ This studio will focus on generative design and simulation using openFrameworks.
 * Ability to create procedurally-generated static & dynamic artwork.
 
 ##Final Grade Breakdown
-* Project 1 – 20%
-* Project 2 – 20%
-* Project 3 – 25%
+* Project 1 – 30%
+* Project 2 – 35%
 * Homework – 15%
 * Attendance & Participation – 20%
 
 ##Projects
 * Project 1 - Procedurally-generated Artwork
-* Project 2 - Algorithmic Animation
-* Project 3 - Complex Systems
+* Project 2 - Algorithmic Animation or image processing
 
 ## Materials and Supplies
 This course will be based on [openFrameworks](http://openframeworks.cc) C++ toolkit and will use [GitHub.com](https://github.com/)  as the online platform to share code, research notes and papers and deliver homework. 
