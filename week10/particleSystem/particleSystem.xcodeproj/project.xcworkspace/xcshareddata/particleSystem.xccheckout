@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>8F42C87A-4756-4E41-901B-2F71DB2A6381</string>
+	<key>IDESourceControlProjectName</key>
+	<string>particleSystem</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>EB99FABF-90E0-46AE-9521-6CE63E480418</key>
+		<string>https://github.com/nicoleyimessier/creativeCoding_OF_S2016.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>week10/particleSystem/particleSystem.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>EB99FABF-90E0-46AE-9521-6CE63E480418</key>
+		<string>../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/nicoleyimessier/creativeCoding_OF_S2016.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>EB99FABF-90E0-46AE-9521-6CE63E480418</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>EB99FABF-90E0-46AE-9521-6CE63E480418</string>
+			<key>IDESourceControlWCCName</key>
+			<string>creativeCoding_OF_S2016</string>
+		</dict>
+	</array>
+</dict>
+</plist>
